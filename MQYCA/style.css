@@ -1,9 +1,0 @@
-@media (max-width: 992px) {
-    #body {
-        text-align: center;
-    }
-    .title-img {
-        position: static;
-        transform: rotate(0);
-    }
-}
